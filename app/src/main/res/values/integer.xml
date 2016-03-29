@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Margins used for the last review's content in DetailActivityFragment -->
+    <integer name="last_review_content_left_margin">0</integer>
+    <integer name="last_review_content_top_margin">0</integer>
+    <integer name="last_review_content_right_margin">0</integer>
+    <integer name="last_review_content_bottom_margin">16</integer>
+</resources>
